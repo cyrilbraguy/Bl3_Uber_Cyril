@@ -1,7 +1,8 @@
 .env
 
 **/*.env.*
-
+/uber-trip-data
+/nybbwi_26c
 
 # --- Python ---
 
